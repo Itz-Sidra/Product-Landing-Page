@@ -34,4 +34,4 @@ This project was created as part of the Responsive Web Design Certification from
 freeCodeCamp (https://www.freecodecamp.org/), an open-source community that helps people learn to code for free.
 
 ## Demo
-You can access the live demo here:
+You can access the live demo here: (https://itz-sidra.github.io/Product-Landing-Page/)
